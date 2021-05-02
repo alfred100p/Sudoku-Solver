@@ -1,2 +1,2 @@
 # Sudoku-Solver
-A CSP for solving sudoku
+A C++ implementation of a CSP for solving sudoku.
